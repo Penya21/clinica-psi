@@ -4107,13 +4107,13 @@ blockquote p {
 	right: 6px;
 	bottom: 6px;
 	left: 6px;
-	border: 1px solid #c09bc4;
+	border: 1px solid #284B75;
 	content: '';
 }
 
 .contactAddres {
 	position: relative;
-	border-bottom: 1px solid #c09bc4;
+	border-bottom: 1px solid #284B75;
 	padding-bottom: 22px;
 	margin-bottom: 23px;
 }
